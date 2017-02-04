@@ -260,5 +260,3 @@ public class BoxDrawingView extends View {
         canvas.rotate((float) rotationAngle);
     }
 }
-
-for testing purpose on github
